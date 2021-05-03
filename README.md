@@ -26,5 +26,5 @@
 </p>
 
 <h2 align="left">💻Contribuidores 🧑🏾🧑🏽</h2>
-<p align="justify">Desenvolvido por <a href="github.com/nicursino">Nicolas Cursino Magarifuchi</a> e <a href="github.com/medrenan">Renan Alves de Medeiros</a>
+<p align="justify">Desenvolvido por <a href="github.com/nicursino">Nicolas Cursino Magarifuchi</a> e <a href="github.com/medrenan">Renan Alves de Medeiros </a>
 </p>
